@@ -1,0 +1,57 @@
+body {
+	background-color: #298eea;
+	margin: 0;
+    padding: 63px 0;
+}
+
+.logo {
+	height:35px;
+	display: block;
+	margin: 0 auto 30px;
+	}
+.demo-form {
+	background-color: white;
+	color: #999;
+	width: 400px;
+	border-radius: 5px;
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 20px 40px;
+}
+form > h1 {
+	text-align: center;
+}
+
+input {
+	padding: 15px;
+	width: 320px;
+	margin: 10px 0;
+	font-size: 22px;
+}
+
+button {
+	background-color: #15CD72;
+	width: 320px;
+	padding: 15px;
+	height: 55px;
+	border-radius: 3px;
+	color: white;
+	font-size: 22px;
+
+}
+ form > a {
+	text-decoration: none;
+	border-bottom: 1px solid #bbb;
+	color: #999;
+	font-size: 16px;
+}
+p {
+	text-align: center;
+	color: white;
+}
+p > a {
+	color: white;
+	text-decoration: none;
+	border-bottom: 1px solid white;
+}
+
